@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nayanjit-Sarkar
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning DSA with python
 - 💞️ I’m looking to collaborate in Open Source
 - 📫 You can reach me through my email id lci2020071@iiitl.ac.in
