@@ -1,9 +1,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayanjit Sarkar!
-##### 👀 I’m interested in *Machine Learning*
-##### 🌱 I’m currently learning DSA with python
-##### 🤝 I’m looking to collaborate in Open Source
-##### 📫 You can reach me through my email id lci2020071@iiitl.ac.in
+
+### I'm a Pre final year student at IIIT Lucknow and an avid machine learning enthusiast. I'm constantly learning and growing my skills through real-world projects, and I'm always open to new opportunities in the fields of machine learning engineering or data science. If you'd like to get in touch, you can reach me at lci2020071@iiitl.ac.in. Thank you for visiting my profile, and I hope to hear from you soon!
 
 ---
 ## 🧰 Toolbox
