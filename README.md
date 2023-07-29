@@ -1,7 +1,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayanjit!
 
-### I'm a Final year student at IIIT Lucknow and an avid machine learning enthusiast. I'm constantly learning and growing my skills through real-world projects, and I'm always *open to new opportunities in the fields of machine learning engineering or data science. Checkout my [website](https://nayanjit-sarkar.github.io/my_portfolio/)
+### I'm a Final year student at IIIT Lucknow and an avid machine learning enthusiast. I'm constantly learning and growing my skills through real-world projects, and I'm always *open to new opportunities* in the fields of machine learning engineering or data science. Checkout my [website](https://nayanjit-sarkar.github.io/my_portfolio/)
 
 ---
 ## 🧰 Toolbox
